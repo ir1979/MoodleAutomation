@@ -1,0 +1,7 @@
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\Speller\Speller\bin\Debug\Speller.exe.config
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\Speller\Speller\bin\Debug\Speller.exe
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\Speller\Speller\bin\Debug\Speller.pdb
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\Speller\Speller\obj\Debug\Speller.csprojAssemblyReference.cache
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\Speller\Speller\obj\Debug\Speller.csproj.CoreCompileInputs.cache
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\Speller\Speller\obj\Debug\Speller.exe
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\Speller\Speller\obj\Debug\Speller.pdb

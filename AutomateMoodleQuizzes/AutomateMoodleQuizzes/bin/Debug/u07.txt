@@ -1,0 +1,154 @@
+UNIT SEVEN
+
+	The Cloud
+ 
+
+Learning objectives: By the end of the lesson students, will be better able to … 
+
+- identify and describe the concept of cloud;
+- use specific vocabulary, explanations and definitions about cloud;
+- get familiar with various practical combinations used in computing;
+- identify and use two common two-part conjunctions.
+
+A)	What is the Cloud?
+1.	You may have heard people using terms like the cloud, cloud computing, or cloud storage. But what exactly is the cloud? Basically, the cloud is the Internet—more specifically, it's all of the things you can access remotely over the Internet. When something is in the cloud, it means it is stored on servers on the Internet instead of on your computer. It lets you access your calendar, email, files, and more from any computer that has an Internet connection.
+
+2.	If you have ever used web-based email, you have used the cloud. All of the emails in your inbox are stored on servers. However, there are many other services that use the cloud in different ways. Here are just a few examples:
+- Dropbox is a cloud storage service that lets you easily store and share files with others, and it lets you access your files from a mobile device as well.
+- Evernote lets you type notes, clip webpages, take photos, and organize all of them from your computer or mobile device.
+- Mozy and Carbonite can automatically back up your data in case your computer is lost, stolen, or damaged.
+3. There are also apps you can use that live in the cloud so you can use them without installing them on your computer. These apps are sometimes called web apps. Web apps include things like Google Docs, which allows you to create documents and spreadsheets online; and Runescape, which is a game you can play in your browser without downloading anything.
+
+4. Many of the most popular sites on the Internet are actually web apps. You may have even used a web app without realizing it! Online email services like Gmail and Yahoo! Mail are two popular examples. They run within your browser and can do many of the same things email programs like Microsoft Outlook can do. After you sign up for an online email service, you can begin using it immediately—no installation is required. Instead of being stored on your computer, your emails are stored in the cloud.
+B)	Why Use the Cloud?
+5. There are many reasons to use the cloud, but the main reasons are convenience and reliability. Saving a file to the cloud ensures that you'll be able to access it with any computer that has an Internet connection, so you won't need to worry about using CD-ROMs or USB flash drives. The cloud also makes it much easier to share a file with coworkers and friends.
+6. With the cloud, you're much less likely to lose your data because it is stored on servers. However, just like anything online, there is always a risk that someone may try to gain access to your personal data, so it's important to choose a strong password and pay attention to any privacy settings for the service you're using.
+
+ 
+Reading Comprehension
+A. Read the sentences; put T for True and F for False. Then work with your classmates to correct the false ones.
+1.	All of the elements in your inbox are stored in the cloud.
+2.	Web apps must be installed on the computer.
+3.	Using Gmail involves installing its apps.
+4.	With the cloud, the risk of losing data decreases.
+
+B. Complete the sentences with the words of the passage.
+1.	 He would never …… his tablet with me.
+2.	A secret ……. was leaked to the news agencies.
+3.	All the photographs are kept on the …… rather than on hard drives.
+
+4.	Before we leave work each day, we …… all the records we have entered into the computer that day.
+
+
+C. Match two halves of each sentence.
+1. Choosing a strong password	a. Evernote organizes all of them in your computer.
+2. Allowing you to take photos,	b. you begin using a web app.
+3. When you sign up for an email,	c. increases the security of your data.
+
+
+
+
+
+
+
+D. Complete the diagram with the correct words according to the passage.
+ 
+
+E. Complete the following sentences based on the passages.
+1. When something is stored on the servers, …………………………………………
+
+2.  If you save a file on the cloud, …………………………………………………………..
+
+3. Choosing a strong password, you,………………………………………………………
+
+4. Without downloading Runescape, you …………………………………………..
+
+
+
+Vocabulary Practice
+F. Complete each sentence with a word from the following. One word is extra.
+reliability-password-connection-spreadsheets-web pages
+1.	The company guarantees Internet ……………. within 24 hours.
+2.	This brand of tablet is famous for its quality and ………..…..
+3.	A website may have many different ……………... for you to click on and explore.
+4.	You can’t gain access to the computer system without entering your ………....
+
+G. Find a synonym for each of the following words from the related paragraphs.
+1. specially (1) 			4. log in (4)        			 
+2. instance (2)      			5. guarantee (5) 			
+3. make (3)     			6. notice (6)    			     
+H. Complete the following definitions using the terms in the box. Two terms are extra.
+browser/server/ convenience/ clip/service/ program
+1. A computer program that allows you to look at and search through information on the Internet: …….
+2.  A short part of a film, television program or news story that is shown separately: …….. 
+3.  A computer that controls or performs a particular job for all the computers in a network: …….. 
+4. A condition that makes it easier to do something and helps you to avoid wasting time or effort: ……
+Vocabulary Skill
+The prefix cyber-
+This prefix is used in a growing number of terms to describe new things that are being made possible by the spread of computers. 
+•	cyberspace: the non-physical terrain created by computer systems.
+•	cyberphobia: an irrational fear of computers
+
+I. Look at the words below. Add the prefix cyber- to each one to make a new word. Then complete the following sentences with them.
+-	café:  			              
+-	bullying:          			
+-	war:                			 
+-	mall:             			    
+-	loaf:              			    
+-	culture:          			 
+1.	Unlike physical bullying, ……..…….… can often be difficult to track.
+2.	When she does have things to do, she tends to ………....  around at times.
+3.	Digikala is a famous ………... that you can purchase various goods.
+4.	Our lives are heavily influenced by …………..
+5.	USA and Russia have been at ………… for the last two decades.
+Natural English
+adjective + noun
+It is a common type of compound noun. Some examples are as follows:
+-	shortcut: a quick way to start or use a computer program
+-	broadband: high-speed connection
+-	smart card: a plastic card containing a microprocessor  
+J. Choose the best choice.
+1.	PC stands for …………. computer.
+a)	private                             b) public                               c) personal
+2.	In order to connect to the Internet, you need a ………. phone.
+a) sharp                               b) smart                                 c) cell
+3.	Bluetooth enabled devices use …....-range radio signals to exchange data.
+a)	short                               b) small                                   c) wide
+4.	….bed scanners are particularly effective for bound documents.
+a)	Flat                                  b) Smooth                              c) Short
+5.	They are going to substitute the most advanced ……… boards for old whiteboards.
+a)	smart                              b) black                                  c) bulletin
+
+ 
+Writing Hints
+Both … and / Neither … Nor
+Both … and and neither … nor are two-part conjunctions that require parallel structure. In other words, the parts of speech that follow each conjunction must be the same. Look at these examples:
+1.	- Both … and:
+This tablet is both cheap and light.
+The company produces both software and hardware.
+2.	
+3.	- Neither … nor
+This tablet is neither expensive nor heavy.
+Neither Sony nor Dell has no sales office in this city.
+
+
+Cloze
+K. Complete the passage by filling in the blanks with the words in the box.
+network/heavy/ handles/computing/simple
+
+In a cloud computing system, there is a significant workload shift. Local computers no longer have to do all the …… lifting when it comes to running applications. The network of computers that make up the cloud ……... them instead. Hardware and software demands on the user's side decrease. The only thing the user's computer needs to be able to run is the cloud …... system's interface software, which can be as ………… as a Web browser, and the cloud's ………… takes care of the rest.
+ 
+Vocabulary
+convenience: The state of being able to proceed with something with little effort or difficulty
+coworker: an associate that one works with
+cyber-café: a cafe that offers Internet access on computers that it owns, or via Wi-Fi on patrons' computers.
+goods: things, properties
+guarantee: a written assurance that some product or service will be provided or will meet certain specifications
+irrational: not logical or reasonable.
+loaf: to avoid activity, especially work
+privacy: the state or condition of being free from being observed or disturbed by other people
+reliability: consistently good in quality or performance; able to be trusted.
+remotely: from a distance; without physical contact
+spreadsheet: a computer program in which figures arranged in the rows and columns of a grid can be manipulated and used in calculations
+terrain: a stretch of land, esp. with regard to its physical features
+workload: assignment, job

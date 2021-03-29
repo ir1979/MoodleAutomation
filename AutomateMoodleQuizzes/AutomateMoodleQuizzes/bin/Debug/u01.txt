@@ -1,0 +1,166 @@
+UNIT ONE
+
+What is a Computer?
+
+ 
+
+Learning objectives: By the end of the lesson, students will be better able to … 
+
+
+- identify and describe parts and functions of a computer;
+- use specific vocabulary, explanations and definitions about computer;
+- get familiar with various practical combinations used in computing;
+- identify and use common verbs of classifying (whole to parts).
+ 
+A)	Parts of a Computer
+1. A computer is an electronic machine that accepts, processes, stores and outputs information. Information given to the computer is called data. Two basic components make up a computer: hardware and software. You simply can’t have one without the other. All electronic or mechanical parts that you can see or touch are called hardware. Hardware includes the computer’s monitor, case, keyboard, mouse, printer, etc. 
+
+2. Computer programs that tell hardware how and what to do are called software. You don’t have to know how to program a computer to use one. A computer programmer has already done the work for you by writing the program. All you have to do is tell the software what you are trying to do, and the software then directs the work of the hardware.
+
+3. There are three basic hardware parts. The first part is CPU (Central Processing Unit). It is the computer’s brain or heart, a microprocessor chip which processes data and coordinates the activities of all the other units. The second part is main memory. It holds the instructions and data which are being processed by the CPU. This part has two main sections: RAM (Random Access Memory) and ROM (Read-Only Memory). 
+
+4. The third part is known as peripherals. They are the physical units which are attached to the computer. They consist of:
+
+a)	Input devices, which let the user enter data and commands (for example, the keyboard and the mouse)
+b)	Output devices, which let the user extract the results (for example, the monitor and the printer)
+c)	Storage devices, which let the user store information (for example, the hard disk or the DVD drive).
+
+B)	Functions of a Computer
+5. The main functions of a typical computer can be classified as follows:
+a) Input: Raw data is presented to the computer via a keyboard, a webcam, etc. 
+b) Processing: Data is transformed into useful information according to program instructions. It includes functions like calculating, sorting, drawing, editing and searching.
+c) Storage/ Memory: Data and programs are kept in memory systems where they are available for processing or use. 
+d) Output: Results take the form of words, pictures and sounds. They are the results of data processing.
+
+
+
+
+
+
+
+Reading Comprehension
+A. Read the sentences; put T for True and F for False. Then work with your classmates to correct the false ones.
+1.	Hardware tells the software what and how to do.
+2.	The physical units attached to the computer are called peripherals.
+3.	RAM is the heart of a computer which processes the information.
+4.	Input is the result of data processing.
+
+B. Complete the sentences with the words of the passage.
+1.	 The computer communicates its results to you via a/n ….. device.
+2.	You communicate with the computer via a/n ….. device.
+3.	A computer works by combining input, storage, ……., and output.  All the main parts of a computer are involved in one of these four processes.
+
+
+C. Match two halves of each sentence.
+1. When CPU is out of order,	a. knowing how to write a program is not necessary.
+2. If you want to use a computer	b. the information is not processed.
+
+3. Keyboard and monitor are known as peripherals,	c. because they are attached to the computer.
+
+
+
+
+
+D. Complete the diagram with the correct words according to the passage.
+ 
+E. Complete the following sentences based on the passages.
+1.	Such devices are called peripherals, because ……………………………………..
+2.  To direct the work of the hardware, …………………………………………………....
+3. Main memory holds ………………………………………….....................................
+4. When it is said that CPU is responsible for coordinating the activities of all other units, it means ………………………………………………………………………......…
+
+ 
+Vocabulary Practice
+F. Complete each sentence with a word from the following. One word is extra.
+data- processor- peripheral- programming -memory
+1.	Keyboard and mouse are just input units—ways of getting ……. into your computer that it can process.
+2.	 A computer is an electronic machine that processes information—in other words, an information …….
+3.	Your computer stores all your documents and files on a hard drive: a huge magnetic …….
+4.	Computer …… consists of writing instructions for computers to perform.
+
+G. Find a synonym for each of the following words from the related paragraphs.
+	1. element (1)			4. connected (4)		
+	2. and so on (2) 			5. include (4)		       
+	3. task (3)        		  	6. usual (5)         		 
+H. Complete the following definitions using the terms in the box. Two terms are extra.
+data/ extract/ microprocessor/ classify/ program/ storage
+1.  A piece of electronic equipment inside a computer that makes it work: …….
+2.  A series of instructions that makes a computer perform an action: …….. 
+3.  To divide things into groups according to their types: …….. 
+4. To take out something: ……
+Vocabulary Skill
+The suffix –er / -or
+Suffix is a letter or group of letters attached to the end of a word. –er /-or as a common suffix is used both for persons and things.
+-	It is used for a person who does an activity, e.g. 
+•	programmer is a person whose job is to produce computer programs.
+-	It is also used for things that do a particular job, e.g. 
+•	processor is a part of a computer that processes the information.
+
+I. Look at the words below. Add the suffix -er / -or to each one to make a noun. Then complete the following sentences with the new words.
+-	compute:  		
+-	adapt:     		    
+-	scan:           		
+-	speak:         		
+-	engine:       		
+-	print:         		  
+1.	A software …….. is responsible for developing, testing and evaluating the software that makes our computers work.
+2. Today, bar code ……… are found in many supermarkets.
+3. Using laser ……… is more time-saving and economical than inkjet ones.
+4. Connecting the equipment to this electrical supply needs a/n …….
+Natural English
+Collocations
+A collocation is two or more words that often go together. Using them makes our English sound natural. For example, in computing, we say “connect to the Internet”, not “attach to the Internet”.
+verb + noun
+It is a common type of collocation. Some examples are as follows:
+- Please help me install the software on my computer.
+- He attached a printer to his computer.
+J. Choose the best verb.
+1.	To turn on the computer, …… the “Start” button.
+a)	switch                     b) play                  c) press
+2.	Switch off your computer, then …… it from the socket.
+a) plug                          b) unplug            c) take
+3.	First …… the file, then send it.
+a)	attach                      b) enclose            c) fasten
+4.	The printer has ……. of ink.
+           a) finished                  b) ended               c) run out
+K. Match the verbs with the nouns.
+   1. recharge	a) data
+   2. transmit	b) the mouse
+   3. write 	c) the battery
+   4. move	d) a program
+Writing Hints
+  	Classifying from Whole to Parts (1)
+We classify things by putting them into groups or classes. For example, parts of a computer, types of software, etc. Some typical expressions are as following:
+-	include  
+Hardware includes the computer’s monitor, case, printer and so on.
+-	consist of
+Peripherals consist of input, output and storage devices.
+-	is composed of
+A computer system is composed of hardware and software.
+-	is made up of
+A hard disk is made up of several disks.
+-	comprise
+Storage devices comprise CDs and DVDs.
+Cloze
+L. Complete the passage by filling in the blanks with the words in the box.
+	results / output / data / takes / storing 
+
+A computer is an electronic machine that processes information—in other words, an information processor: it ….. in raw information or ….. at one end, stores it until it is ready to work on it, chews and crunches it for a bit, then spits out the …… at the other end. All these processes have a name. Taking in information is called input, …… information is better known as memory or storage, chewing information is also known as processing, and spitting out results is called ….. . 
+Vocabulary
+adapter/adaptor: a device for connecting pieces of equipment that cannot be connected directly.
+brain: the organ inside your head that allows you to think and feel, and controls your body
+classify: to put people or things into particular groups according to the features that they have
+combination: a joining or merging of different parts or qualities in which the component elements are individually distinct
+coordinate: to organize the different parts of a job or plan so that the people involved work together effectively
+crunch: process large amounts of information or perform operations of great complexity, especially by computer
+direct: control the operations of; manage or govern
+extract: obtain (a substance or resource) from something by a special method
+heart: the organ in your chest that makes blood flow around your body
+hint: a slight or indirect indication or suggestion
+identify: to recognize someone and be able to say who they are
+objective: something that you plan to achieve, especially in business or work
+peripheral: of secondary or minor importance; marginal
+random: chosen or happening without any particular method, pattern, or purpose
+raw: in its natural state; unprocessed
+spit: forcibly eject (food or liquid) from one’s mouth
+unit: an individual thing that is part of something larger

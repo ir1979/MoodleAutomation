@@ -1,0 +1,160 @@
+UNIT THREE
+
+	
+Inside a Computer
+
+ 
+
+Learning objectives: By the end of the lesson students will be better able to …… 
+
+- identify and describe a computer’s inside parts;
+- use specific vocabulary, explanations and definitions about computer parts;
+- get familiar with various practical combinations used in computing;
+- identify and use common verbs and expressions of classifying (parts to whole).
+
+A)	Look inside a Computer
+
+1. Have you ever looked inside a computer case before? The small parts may look complicated, but the inside of a computer case really isn't all that mysterious. This passage will help you understand a bit more about what goes on inside a computer case. Now let’s explore the inside of a computer:
+
+2.  CPU/ Processor: The Central Processing Unit (CPU), also called a processor, is located on the motherboard. It is sometimes called the brain or heart of the computer, and its job is to carry out commands. Whenever you press a key, click the mouse, or start an application, you are sending instructions to the CPU. A processor's speed is measured in megahertz (MHz), or millions of instructions per second; and gigahertz (GHz), or billions of instructions per second. A faster processor can execute instructions more quickly. However, the actual speed of the computer depends on the speed of many different components—not just the processor.
+
+3. Motherboard:  Your computer couldn’t work without the motherboard. It ties everything together! It allows every part of your computer to receive power and communicate with each other. Everything that runs the computer or enhances its performance is either part of the motherboard or plugs into one of its expansion slots or ports. 
+
+4. RAM and ROM: RAM (Random Access Memory) is your system's short-term memory. Whenever your computer performs calculations, it temporarily stores the data in the RAM until it is needed. This short-term memory disappears when the computer is turned off. If you are working on a document, you'll need to save it to avoid losing it. When you save a file, the data is written to the hard drive, which acts as long-term storage. However, ROM (Read Only Memory) is permanent and contains instructions for the computer. The BIOS (Basic Input/output System) uses ROM to control communication with peripherals, e.g. disk drives. In simple terms, the BIOS chip wakes up the computer when you turn it on and reminds it what parts it has and what they do!
+
+5. Hard Drive: The hard drive on your computer is where the software is installed, and it's also where your documents and other files are stored. The hard drive is long-term storage, which means the data is still saved even if you turn the computer off or unplug it. When you run a program or open a file, the computer copies some of the data from the hard drive onto the RAM. When you save a file, the data is copied back to the hard drive. The faster the hard drive is, the faster your computer can start up and load programs.
+
+6. Expansion cards: Most computers have expansion slots on the motherboard that allow you to add various types of expansion cards. Some of the most common types of expansion cards include video card (responsible for what you see on the monitor), sound card (responsible for what you hear in the speakers or headphones), network card (allowing your computer to communicate over a network and access the Internet) and Bluetooth card (allowing your computer to communicate with wireless keyboards, mice, and printers).
+
+
+Reading Comprehension
+A. Read the sentences; put T for True and F for False. Then work with your classmates to correct the false ones.
+
+1.	A processor's speed is only measured in megahertz. 
+2.	CPU is known as the brain of the computer. 
+3.	Bluetooth card allows your computer to communicate over a network and access the Internet.
+4.	When you open a file, the computer copies some of the data from the hard drive onto the ROM.
+
+B. Complete the sentences with the words of the passage.
+1.	 If you want to ……... the image, choosing the file format .JPG is a good choice for photos.
+2.	You can add extra USB ….. to your computer.
+3.	Can I just …. my computer to shut it down? 
+
+C. Match two halves of each sentence.
+
+1. When you turn off your computer,	a. the data is saved in hard drive.
+2. Even if you unplug your computer,	b. the short-term memory disappears.
+3. The faster your computer is,	c. the faster it loads programs.
+
+
+D. Complete the diagram with the correct words according to the passage.
+
+
+
+ 
+
+
+E. Complete the following sentences based on the passages.
+
+1.	Whenever you start an application, ……………………………………………………
+2.	The slower the hard drive is, ………………………………………………………………
+3.	When the computer is turned off, ………………………………………………………. 
+4.	Contrary to RAM which is known as the system’s short memory, ……………………………………………………………………………………………………………
+Vocabulary Practice
+F. Complete each sentence with a word from the following. One word is extra.
+	processor- card- execute - save- copy back
+1.	Your computer’s ……..  is a microchip buried deep inside. 
+2.	The program will automatically ….. any documents you have open.
+3.	What are the steps to ...... an instruction?
+4.	You will have to install a new Ethernet .......
+
+G. Find a synonym for each of the following words from the related paragraphs.
+1. complex (1)  			4. temporary (4) 			
+2. real (2)                			5. save (5)       			
+3. improve (3)           		6. port  (6)      			 
+
+H. Complete the following definitions using the terms in the box. Two terms are extra.
+unplug/temporary/ start up/explore/install/permanent
+1.	To put sth into a piece of equipment so that it is ready to use: ….….
+2.	To separate a piece of equipment from a power supply by taking its plug out of an electric socket: ………
+
+3.	Happening or existing for a long time or for all time in the future: ……
+4.	To (cause to) begin to work or operate: ……….
+
+
+Vocabulary Skill
+The suffix –able
+
+This productive suffix means “capable of, fit for, tending to”.
+
+•	removable: capable of being removed or taken away
+•	connectable: capable of being connected
+
+I. Look at the words below. Add the suffix  -able to each one to make an adjective. Then complete the following sentences with the new words.
+-	port:         			  
+-	access:      			 
+-	execute:    			 
+-	recycle:      			
+-	comfort:   			  
+
+1.  It is one of the most ……. and adjustable tablet stands.
+2.  Such computer games are ……. to children with special needs, disabled adults, and low vision players.
+3. Computers must use ……. files to carry out the tasks that you give to them.
+4. This brand is one of the thinnest ….. hard drives on the market.
+ 
+Natural English
+	Verbs with particles
+Some verbs are two-part verbs. They consist of a verb and a particle. For example:
+-	log on: 
+  To log on your account, first enter your ID and password.
+
+-	key in: 
+   It took me two hours to key in all that text.
+
+
+J. Choose the best phrasal verb.
+1.	You can ……. space on your hard drive by uninstalling applications you never use.
+a)	keep up                   b) free up                      c) look up
+2.	Do you know where the microphone ……. the computer?
+a)	 plugs into              b) logs onto                  c) tune in
+3.	Computer criminals are interested in ……… other people’s computers.
+a)	hack at                    b) hack into                  c) touch up
+4.	Click on the photo of any student, and it …… to full size.
+a)	zooms in                b) zooms out                c) prints out
+5.	When a computer ……., it becomes ready for use by getting the necessary information into the memory.
+a)	boots out                  b) boots up                     c) logs off
+Writing Hints
+	Classifying from Parts to Whole
+We can classify from the specific to the general. Some typical expressions of classifying are as following:
+-	constitute
+Hardware and software constitute a computer.
+-	make up
+RAM and ROM make up the main memory.
+-	is a type of
+Network card is a type of expansion card.
+-	are parts/components of
+CPU and motherboard are two main parts of a computer.
+Cloze
+K. Complete the passage by filling in the blanks with the words in the box.
+built/ install/used/ compatible/ repair
+
+It is cheaper to ……. a computer by yourself than purchase a computer that is already …..... . The parts of the computer can be purchased from computer stores that sell new and ….. computer parts. Installing a computer by yourself is also advantageous as you will learn how the computer works and you can ……. the computer by yourself if ever you have problems with it. Before beginning to install your computer, you need to make sure that all the computer parts that you have are ……. with each other.
+ 
+Vocabulary
+advantageous: involving or creating favorable circumstances that increase the chances of success or effectiveness; beneficial
+bury: put or hide under ground
+cloze: a test in which one is asked to supply words that have been removed from a passage in order to measure one's ability to comprehend text.
+complicated: consisting of many interconnecting parts or elements; intricate
+disappear: be lost or impossible to find
+Ethernet: a system for connecting a number of computer systems to form a local area network, with protocols to control the passing of information and to avoid simultaneous transmission by two or more systems.
+explore: travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it
+heat sink: a device or substance for absorbing excessive or unwanted heat.
+mysterious: difficult or impossible to understand, explain, or identify
+permanent: lasting or intended to last or remain unchanged indefinitely
+portable: able to be transferred from one machine or system to another
+purchase: acquire (something) by paying for it; buy
+recycle: convert (waste) into reusable material.
+remind:  cause (someone) to remember someone or something
+responsible: having an obligation to do something, or having control over or care for someone, as part of one's job or role
+temporarily: lasting for only a limited period of time; not permanent
+wireless:  using radio, microwaves, etc. to transmit signals

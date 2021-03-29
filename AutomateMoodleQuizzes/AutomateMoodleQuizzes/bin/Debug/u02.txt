@@ -1,0 +1,167 @@
+UNIT TWO
+
+
+Input and Output Devices
+
+ 
+
+Learning objectives: By the end of the lesson, students will be better able to … 
+
+- identify and describe a computer’s input and output devices;
+- use specific vocabulary, explanations and definitions about input and output devices;
+- get familiar with various practical combinations used in computing;
+- identify and use common verbs and expressions of classifying (whole to parts).
+
+A)	Input Devices
+1. A computer would be useless if you had no way to communicate with it. That’s why you need an input device. Essentially, an input device is any piece of hardware which allows you to enter information into the computer. To put it simply, it lets you talk to your computer. Two common examples of input devices are the keyboard and the mouse. 
+
+2.  The keyboard is probably the most used input device. It operates a lot like a typewriter, but has many additional keys that let it do special things a typewriter can’t. A typical keyboard has various groups of keys as follows:
+a) Alphanumeric keys: They represent letters and numbers, arranged as on a typewriter.
+b) Function keys: Most computer keyboards have between 10 and 12 function keys. These keys are usually located at the top of the keyboard and give the computer user fast ways to give the computer special instructions. 
+c) Numeric keypad keys: On the right side of the keyboard there is a set of keys grouped together in a square. These keys have two functions: entering numbers and editing. The Num Lock is used to switch from numbers to editing functions.
+d) Cursor keys: They include “arrow keys”, which move your computer’s cursor across the screen and keys such as Home, End, Page Up and Page Down, which let you move around documents.
+e) Dedicated keys:  They are used to issue commands or produce alternative characters. They include Ctrl, Caps Lock, Enter and Backspace.
+
+3. Mouse is another input device. It is called a mouse because of its shape and the way the cable attaching it to the computer looks a bit like a tail. Like other computer components, mice come in several shapes and sizes. Today, optical and wireless mice have substituted for rollerball mouse.
+B)	Output Devices
+4.  Any device that lets the computer talk to you such as the monitor, speaker or printer is called an output device. A Monitor, commonly called as a Visual Display Unit (VDU), is the main output device of a computer. It forms images from tiny dots, called pixels that are arranged in a rectangular form. The resolution of the image depends upon the number of pixels.
+
+5.  Another output device is printer. Once you have created something on the computer, you can send it to the printer. The printer prints exactly what’s on the screen. The output on paper is called printout or hard copy. There are many different types of printers available. Ink-Jet and laser printers are the most common printer types.
+
+6. Some computer devices can be categorized as both an input device and an output device. For example, a multifunction printer has a scanner (input) and a printer (output). Touch screen monitors are another example of an input/output device; they display images (output) and also let users interact with the computer by pressing areas of the screen (input).
+
+
+Reading Comprehension
+A. Read the sentences; put T for True and F for False. Then work with your classmates to correct the false ones.
+
+1.	Entering numbers and editing are two main functions of cursor keys.
+2.	Speaker and printer are known as output devices.
+3.	Optical mouse is replaced by rollerball mouse.
+4.	Pixels are arranged in triangular form.
+
+B. Complete the sentences with the words of the passage.
+1.	 Commonly known as …… keys on a computer keyboard, F1 through F12 may have a variety of different uses or no use at all.
+
+2.	…….. keys are buttons on a computer keyboard that are either programmed to move the cursor in a specified direction.
+
+3.	The data …..  connects your monitor to your computer and allows your computer to display a picture on the monitor.
+
+
+C. Match two halves of each sentence.
+
+1. When the Num Lock is off,	a. this input device is called mouse.
+2. If there is no input device,	b. the user cannot enter any information. 
+3. Because of its shape and the way the cable attaching it to the computer,	c. you cannot use the numbers. 
+
+
+D. Complete the diagram with the correct words according to the passage.
+
+
+ 
+
+E. Complete the following sentences based on the passages.
+
+1.	Although a keyboard operates a lot like a typewriter, it ……………………………………………………………………………………………................
+2.	Touch screen monitor is an example of an input/output device because…………………………………………………………………………………..............
+3.	This set of keys is called alphanumeric, because…………………………………...
+4.	Such devices are known as output, since……………………………………………….
+
+Vocabulary Practice
+F. Complete each sentence with a word from the following. One word is extra.
+	function - hard- switch- multifunctional- cursor
+1.	Commonly known as ………. keys on a computer keyboard, F1 through F12 may have a variety of different uses or no use at all.
+2.	You can ……. between different input languages by clicking on the Language Bar button.
+3.	We need a ...... copy of the report.
+4.	A …….. printer can work as a scanner, a fax and a photocopier as well as a printer.
+
+G. Find a synonym for each of the following words from the related paragraphs.
+	1. instance (1)			4. generally (4)		
+	2. further (2)			5. various (5)		
+	3. replace (3)			6. show (6) 		
+
+H. Complete the following definitions using the terms in the box. Two terms are extra.
+optical/printout/ interact/ touch/ press/pixel
+1.	Paper printed with information from a computer file: ………..
+2.	Relating to or involving light: …………..
+3.	To communicate or act with others: …………
+4.	To press something in a light way with your finger to make it work: ……….
+Vocabulary Skill
+
+The prefix multi-
+Prefix is a letter or group of letters attached to the beginning of a word. Multi- as a common prefix implies many, much or more than two.
+•	multicolored: including many colors
+•	multifunction: having more than one function
+
+I. Look at the words below. Add the prefix multi-  to each one to make a noun. Then complete the following sentences with the new words.
+
+-	byte:           …………
+-	media:        .………...
+-	format:       …………
+-	digit:           …………
+-	player:       …………
+-	lingual:       …………
+
+1.	It is a famous ……… online dictionary.
+2.	This site is the biggest & best …………… pool game online.
+3.	It is a ……… presentation switcher for digital and analog signals.
+4.	The computer stored the number in a ……. location: it took 32 bits or four entire bytes to store so large a value.
+5.	………. includes a combination of text, audio, still images, animation, video, or interactive content forms.
+
+Natural English
+adjective + noun
+It is a common type of collocation. Some examples are as follows:
+-	It is a user-friendly software.
+
+-	High-speed networks allow the users to view live TV.
+
+J. Choose the best adjective.
+1.	Oh! I pressed the ……. button.
+a)	false                                b) wrong                             c) incorrect
+2.	Her new computer has a very …….. processor.
+a)	fast                                   b) quick                               c) high-speed
+3.	We have set up a …….. network.
+a)	wire-free                        b) wireless                          c) no wire
+4.	For those living in areas far away from a broadcast station, a .......... TV antenna can be a remedy.
+a)	long-range   b) short-range    c) high-capacity
+
+K. Match the adjectives with the nouns.
+   1. simplified	a) domain
+   2. public	b) version
+   3. trial 	c) period
+   4. low	d) battery
+Writing Hints
+	Classifying from Whole to Parts (2)
+Some typical expressions of classifying are as following:
+(1)
+-	be classified into  … types / categories 
+Computers can be classified into many types.
+-	can be divided into ... types/ categories
+Storage media can be divided into three types: optical, magnetic and flash memory.
+	(2)
+      -    There are ….. types/ classes/ categories of ….
+           Today, there are many types of printers available.	
+
+Cloze
+L. Complete the passage by filling in the blanks with the words in the box.
+	hand- place- inserting- rollers- document
+
+Scanners as input devices come in three basic types. The simplest type of scanner is the …… held, in which the scanning device is moved across images or texts. A page scanner works by …… a page into the top of the scanner, which is pulled via ….. through the scanner. The most common type of scanner is the flatbed scanner, which allows you to ….. an image or …… on the top of its surface, much like a photocopier. 
+ 
+Vocabulary
+arrow key: any one of four keys on a computer or other electronic keyboard which are marked with an arrow or arrow-head and move the cursor around the screen in the direction indicated by the arrow
+compatible: able to exist or occur together without problems or conflict
+cursor: a movable indicator on a computer screen identifying the point that will be affected by input from the user.
+dedicated: devoted to a task or purpose
+essentially: used for emphasizing what is the most important aspect of something or fact about something
+expression: a word or phrase, especially an idiomatic one, used to convey an idea
+familiar: well known to you, or easily recognized by you
+lock: to fasten something such as a door or a container, usually with a key, so that other people cannot open it
+practical: involving or relating to real situations and events
+roller ball: an input device containing a ball to control the cursor.
+substitute: use or add in place of
+tail: the hindmost part of an animal
+tiny: very small
+touchscreen: a display device which allows the user to interact with a computer by touching areas on the screen.
+trial: A test of the performance, qualities, or suitability of someone or something
+typewriter: an electric, electronic, or manual machine with keys for producing print-like characters one at a time on paper inserted round a roller.
+useless: not fulfilling or not expected to achieve the intended purpose or desired outcome

@@ -1,0 +1,133 @@
+This passage attempts to cover these questions ... brief.
+A) in
+B) on
+C) at
+D) for
+ANSWER: A
+
+This allows programmers to write source code ... a natural fashion, using logical words and symbols.
+A) in
+B) on
+C) at
+D) for
+ANSWER: A
+
+For example, words like function, while, if, and else are used ... most major programming languages.
+A) in
+B) on
+C) at
+D) for
+ANSWER: A
+
+There are hundreds of programming languages ... use today.
+A) in
+B) on
+C) at
+D) for
+ANSWER: A
+
+Java: designed and used to run ... the web.
+A) on
+B) in
+C) at
+D) for
+ANSWER: A
+
+Among these languages Java is the number one programming language today ... many reasons.
+A) for
+B) on
+C) at
+D) in
+ANSWER: A
+
+Java can run ... many different computer architectures and operating systems.
+A) on
+B) in
+C) at
+D) for
+ANSWER: A
+
+Third, Java is the language most likely to be taught ... university computer science classes.
+A) in
+B) on
+C) at
+D) for
+ANSWER: A
+
+A lot of computer science theory books written ... the past decade use Java ... the code examples.
+A) in
+B) on
+C) at
+D) for
+ANSWER: A
+
+So learning Java syntax is a good idea even if you never actually code ... it.
+A) in
+B) on
+C) at
+D) for
+ANSWER: A
+
+Read the sentences; put T ... True and F ... False.
+A) for
+B) on
+C) at
+D) in
+ANSWER: A
+
+Complete the following sentences based ... the passages.
+A) on
+B) in
+C) at
+D) for
+ANSWER: A
+
+Find a synonym ... each of the following words from the related paragraphs.
+A) for
+B) on
+C) at
+D) in
+ANSWER: A
+
+Complete the following definitions using the terms ... the box.
+A) in
+B) on
+C) at
+D) for
+ANSWER: A
+
+This common prefix ... English means reversal or negation.
+A) in
+B) on
+C) at
+D) for
+ANSWER: A
+
+Look ... the words below.
+A) at
+B) on
+C) in
+D) for
+ANSWER: A
+
+Hotspots provide Wi-Fi Internet access ... airports and train stations.
+A) in
+B) on
+C) at
+D) for
+ANSWER: A
+
+Complete the passage by filling ... the blanks with the words ... the box.
+A) in
+B) on
+C) at
+D) for
+ANSWER: A
+
+C language, it is best to learn C (and C++) before moving ... to others.
+A) on
+B) in
+C) at
+D) for
+ANSWER: A
+

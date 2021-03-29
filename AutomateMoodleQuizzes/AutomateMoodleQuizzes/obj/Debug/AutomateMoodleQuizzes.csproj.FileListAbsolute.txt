@@ -1,0 +1,21 @@
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\Speller\bin\Debug\Speller.exe.config
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\Speller\bin\Debug\Speller.exe
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\Speller\bin\Debug\Speller.pdb
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\Speller\obj\Debug\AutomateMoodleQuizzes.csprojAssemblyReference.cache
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\Speller\obj\Debug\AutomateMoodleQuizzes.csproj.CoreCompileInputs.cache
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\Speller\obj\Debug\Speller.exe
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\Speller\obj\Debug\Speller.pdb
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\AutomateMoodleQuizzes\obj\Debug\AutomateMoodleQuizzes.csprojAssemblyReference.cache
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\AutomateMoodleQuizzes\obj\Debug\AutomateMoodleQuizzes.csproj.CoreCompileInputs.cache
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\AutomateMoodleQuizzes\bin\Debug\AutomateMoodleQuizzes.exe.config
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\AutomateMoodleQuizzes\bin\Debug\AutomateMoodleQuizzes.exe
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\AutomateMoodleQuizzes\bin\Debug\AutomateMoodleQuizzes.pdb
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\AutomateMoodleQuizzes\obj\Debug\AutomateMoodleQuizzes.exe
+D:\RM\Online\Dropbox\Projects\Moodle Quiz Generator (spell)\AutomateMoodleQuizzes\AutomateMoodleQuizzes\obj\Debug\AutomateMoodleQuizzes.pdb
+D:\RM\Online\Dropbox\Projects\AutomateMoodleQuizzes\AutomateMoodleQuizzes\AutomateMoodleQuizzes\bin\Debug\AutomateMoodleQuizzes.exe.config
+D:\RM\Online\Dropbox\Projects\AutomateMoodleQuizzes\AutomateMoodleQuizzes\AutomateMoodleQuizzes\bin\Debug\AutomateMoodleQuizzes.exe
+D:\RM\Online\Dropbox\Projects\AutomateMoodleQuizzes\AutomateMoodleQuizzes\AutomateMoodleQuizzes\bin\Debug\AutomateMoodleQuizzes.pdb
+D:\RM\Online\Dropbox\Projects\AutomateMoodleQuizzes\AutomateMoodleQuizzes\AutomateMoodleQuizzes\obj\Debug\AutomateMoodleQuizzes.csprojAssemblyReference.cache
+D:\RM\Online\Dropbox\Projects\AutomateMoodleQuizzes\AutomateMoodleQuizzes\AutomateMoodleQuizzes\obj\Debug\AutomateMoodleQuizzes.csproj.CoreCompileInputs.cache
+D:\RM\Online\Dropbox\Projects\AutomateMoodleQuizzes\AutomateMoodleQuizzes\AutomateMoodleQuizzes\obj\Debug\AutomateMoodleQuizzes.exe
+D:\RM\Online\Dropbox\Projects\AutomateMoodleQuizzes\AutomateMoodleQuizzes\AutomateMoodleQuizzes\obj\Debug\AutomateMoodleQuizzes.pdb

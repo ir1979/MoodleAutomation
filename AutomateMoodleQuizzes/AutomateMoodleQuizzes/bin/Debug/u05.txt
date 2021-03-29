@@ -1,0 +1,157 @@
+UNIT FIVE
+
+	
+Application
+ 
+Learning objectives: By the end of the lesson, students will be better able to … 
+
+- identify and describe various types of   applications;
+- use specific vocabulary, explanations and definitions about applications;
+- get familiar with various practical expressions used in computing;
+- identify and use common linking expressions used for showing sequence.
+
+A)	What is an Application?
+1.  You may have heard people talking about using an application or an app. But what exactly does that mean? An app is a type of software that allows you to perform specific tasks. Applications for desktop or laptop computers are sometimes called desktop applications, and those for mobile devices are called mobile apps. When you open an application, it runs inside the operating system until you close it. Most of the time, you will have more than one application open at the same time, and this is known as multitasking.
+B) Types of Desktop Applications
+2. There are countless desktop applications out there, and they fall into many different categories. Some are more full-featured (like Microsoft Word), while others may only do one or two things (like gadgets). Below are just a few types of applications you might use:	
+a) Word processors: A word processor allows you to write a letter, design a flyer, and create many other types of documents. The most well-known word processor is Microsoft Word. 
+b) Web browsers: A web browser is the tool you use to access the Internet. Most computers come with a web browser pre-installed, but you can also download a different one if you prefer. Examples of browsers include Internet Explorer, Firefox, Google Chrome, and Safari.
+c) Gadgets: Sometimes called widgets, these are simple applications you can place on your desktop. There are many different types of gadgets, and they include calendars, calculators, maps, and news headlines.
+C) Installing Applications
+3. In order to work, an application usually has to be installed on your computer. Typically, installation is as simple as inserting the installation disc and following the instructions on the screen. For software downloaded from the Internet, you can usually double-click it after it is finished downloading and then follow the instructions on the screen. Many applications include a readme file (for example, readme.txt), which includes installation instructions and other information.
+4. Each application on your computer has a group of file types—or formats—it is able to open. You generally won't have to figure out which application will open your files. When you double-click a file, your computer will automatically use the correct application to open it, as long as the application is installed on your computer.
+5. Needless to say, desktop and laptop computers are not the only devices that can run apps. You can also download apps for mobile devices like smart phones and tablets, which opens up many new possibilities.
+
+
+
+ 
+Reading Comprehension
+A. Read the sentences; put T for True and F for False. Then work with your classmates to correct the false ones.
+
+1.	Only one application can work at the same time.
+2.	Calendar is a type of widget.
+3.	Gadgets are known as full-featured applications.
+4.	Readme file provides the users with installation instructions.
+
+B. Complete the sentences with the words of the passage.
+1.	The computer ……………….… took only a few minutes.
+2.	Our monitor has a 10-inch ……………...
+3.	Please …………..… on the icon to start the program.
+4.	All of our products are available for ………………..… on our website.
+
+C. Match two halves of each sentence.
+1. To design a flyer,	a.   the computer automatically use the correct application to open a file.
+2. As long as an application is installed,	b.      it runs inside the Operating System.
+3. When an application is opened,	c. you need word processor application 
+
+
+
+
+D. Complete the diagram with the correct words according to the passage.
+
+
+ 
+
+
+E. Complete the following sentences based on the passages.
+1.	An application that does many things, ………………………………………..
+
+2.	Accessing the Internet, ……………………………………………………………….
+
+3.	When a file is double-clicked, ………………………………………………………
+ 
+4.	If you prefer a web browser other than the pre-installed one, you ……………………………………………………………………………………………………….
+
+
+Vocabulary Practice
+F. Complete each sentence with a word from the following. One word is extra.
+figure out - tablets - access- desktop - file
+1.	It takes most people some time to ……. new software.
+2.	 Some users still have difficulty gaining ….. to our products.
+3.	News users are interested in reading long articles on their …… 
+4.	First, you have to create a new …….
+
+
+G. Find a synonym for each of the following words from the related paragraphs.
+	1. precisely (1) 			4. regularly (3) 			2. numerous (2)			5. understand (4)			3. famous (2) 			6. unnecessary (5) 			
+
+H. Complete the following definitions using the terms in the box. Two terms are extra.
+format/ install/ gadget/ headline/ device/ multitasking
+
+1.  The way in which information is arranged and stored on a computer: …….
+2.  To put a computer program on a computer so that the computer uses it: ….. 
+3.  A small piece of software that you can add to a website in order to customize it: …….. 
+4. The ability of a computer to do several different things at the same time: ….
+Vocabulary Skill
+The suffix -ize
+This productive suffix in English means cause to or subject to an action:
+•	organize: to make arrangements for something to happen
+•	digitize: to put information into the form of a series of the numbers 0 and 1
+
+I. Look at the words below. Add the suffix –ize to each one. Then complete the following sentences with the new verbs.
+
+-	magnet:         			
+-	analysis:        			
+-	modern:      			  
+-	memory:       			 
+-	formal: 			
+
+1.	By the late 1990s, the FBI recognized the need to …..……  its computer systems and proposed a major technology upgrade plan.
+2.	The data taken from his research were ……... for validity.
+3.	Can you ……… such cards?
+4.	He uses artificial intelligence techniques to ……. the information system process design.
+Natural English
+Compound Nouns
+A compound noun is a noun that is made with two or more words and used as a single word. For example, programming language.
+noun+ noun
+It is a common type of compound nouns. Some examples are as follows:
+-	Google is one of the most popular search engines.
+-	Type your web searches in the address bar.
+
+J. Choose the best noun.
+1. The mouse moves on a ………...
+a)	mouse mat                     b) mouse carpet                c) mouse table
+2. You can increase the functions of a computer with an ………
+a) extension card               b) expansion card              c) exploding card
+3. SD cards can be read in a computer's ……….
+a) storage reader               b) memory reader             c) card reader
+4. This wire's too short. I need a/an…….. cable.
+a) network                          b) extender                         c) expander
+F. Match the two parts.
+   1. inkjet	a) chip
+   2. silicon	b) layout
+   3. page	c) panel
+   4. control	d) printer
+Writing Hints
+Showing Sequence
+Some common words and phrases to show sequence are as follows:
+-	First(ly), Second(ly), Third(ly)…, etc.
+-	Next … / Then …/ Afterward/ After this (that)…
+-	Following this (that)… 
+-	Now ...
+-	At this point … / … and then …
+-	Lastly/ Finally …
+-	On (discovering the data), …
+-	Before (entering the password) …
+-	When (the data is transferred) …
+-	If you (face the virus, you …)
+Cloze
+K. Complete the passage by filling in the blanks with the words in the box.
+totally/influence/available/download/store
+
+No matter which smartphone you own or are choosing to buy, the apps that are …..…. for it can have an enormous …… on whether you're ultimately happy with your phone. For every app …… across every phone and mobile operating system, there are plenty of excellent apps that we recommend people ……. . And among that superb selection, there's always a remarkable sub-selection of apps that are ……... free.
+ 
+Vocabulary
+automatic: operating with minimal human intervention; independent of external control
+calculator: a small machine that is used for mathematical calculations
+calendar: a chart or series of pages showing the days, weeks, and months of a particular year, or giving particular seasonal information.
+countless: too many to be counted
+customize: make according to requirements
+disc: a memory device consisting of a flat disk covered with a magnetic coating on which information is stored
+fall into: be included in or classified as
+feature: a prominent attribute or aspect of something
+figure out: find the solution to (a problem or question) or understand the meaning of
+flyer: an advertisement (usually printed on a page or in a leaflet) intended for wide distribution
+headline: the heading or caption of a newspaper article
+multitasking: the simultaneous execution of more than one program or task by a single computer processor.
+superb: surpassingly good

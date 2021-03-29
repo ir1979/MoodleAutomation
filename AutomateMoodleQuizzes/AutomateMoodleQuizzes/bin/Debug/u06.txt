@@ -1,0 +1,178 @@
+UNIT SIX
+
+	
+Programming Languages
+	
+
+ 
+
+
+Learning objectives: By the end of the lesson, students will be better able to … 
+
+- identify and describe types of programming languages;
+- use specific vocabulary and definitions about programming languages;
+- get familiar with common compounds used in computing;
+- identify and use common structures expressing contrast.
+
+A)	What is a Programming Language?
+1. What is a programming language? What are high-level and low-level languages? How can you know which one to learn first? How do you know which ones are the best for your IT field of choice? This passage attempts to cover these questions in brief.
+
+2. A programming language is a special language that programmers use to develop applications, scripts, or other set of instructions for computers to do a specific task. This set of commands or instructions are also known as a computer language.
+
+3. Programming languages are classified into low-level and high-level languages. Low-level languages include assembly and machine languages. These two languages are called low-level languages because they are closer to the hardware. An assembly language contains a list of basic instructions and is much more difficult to read than a high-level language. Machine language or machine code, consisting of 0s and 1s known as binary codes, is the only language that a PC can directly execute.
+
+4. High-level languages, which are closer to human languages, are designed to be easy to read and understand. This allows programmers to write source code in a natural fashion, using logical words and symbols. For example, words like function, while, if, and else are used in most major programming languages. Symbols like <, >, ==, and != are common operators. 
+
+
+B)	Top Most Popular Programming Languages
+
+5. There are hundreds of programming languages in use today. Examples of high-level languages include C, C++, Java, Perl, Visual Basic, and PHP. Their main functions are as follows:
+- C: used to write system software, graphics and commercial programs;
+- C++: used to create a wide array of applications from games to office suites;
+- Perl: used for text processing and system administration scripting;
+- Visual Basic: used for creating Windows applications;
+- PHP: used for scripting web applications;
+- Java: designed and used to run on the web.
+
+
+6.  Among these languages Java is the number one programming language today for many reasons. First, it is a well-organized language with a strong library of reusable software components. Second, programs written in Java can run on many different computer architectures and operating systems. Third, Java is the language most likely to be taught in university computer science classes. A lot of computer science theory books written in the past decade use Java in the code examples. So learning Java syntax is a good idea even if you never actually code in it.
+
+
+
+
+
+
+Reading Comprehension
+A. Read the sentences; put T for True and F for False. Then work with your classmates to correct the false ones.
+1.	Assembly language is an easy language to read.
+2.	High-level languages use forms resembling English language.
+3.	Being closer to human languages, low-level languages are not difficult to understand.
+B. Complete the sentences with the words of the passage.
+1.	Machine code is the only language that a PC can directly ……….
+2.	High-level languages are …… to read than low-level languages.
+3.	Doing a specific task, computers need to use a set of ………. known as program.
+C. Match two halves of each sentence.
+1.	Java is not only a well-organized language,	a. machine language is the only one that a PC can directly execute.
+2.	Perl as a high-level language,	b. it also runs on many operating systems. 
+3. Consisting of binary codes,	c. is used for text processing and system administration scripting
+
+
+
+D. Complete the diagram with the correct words according to the passage.
+ 
+
+
+E. Complete the following sentences based on the passages.
+
+1.	Because assembly and machine languages are closer to the hardware, ……………………………………………………………………………….
+
+2.	Since high-level languages are closer to human languages,………………………………………………………….
+
+3.	 As a high-level language, Java……………………………………………………………….
+
+4.	Learning Java is a good idea, because …………………………………………………..
+
+
+Vocabulary Practice
+F. Complete each sentence with a word from the following. One word is extra.
+	commands- application- operators-symbols- syntax
+1.	Any program is just a sequence of …………
+2.	An ……. is a set of computer programs designed to permit the user to perform a group of coordinated functions, tasks, or activities.
+3.	……… refers to the grammar of a programming language.
+4.	The Java programming language provides ……… that perform addition, subtraction, multiplication, and division.
+
+G. Find a synonym for each of the following words from the related paragraphs.
+	1. in summary (1) 			4. usual (4)  			  
+	2. special (2)     			5. Group (5) 			  
+	3. main (3)              			6.  cause (6) 			  
+H. Complete the following definitions using the terms in the box. Two terms are extra.
+machine code/ PHP/ decade/Visual Basic/Java / well-organized
+1. Language used to create and format for the Web: …………
+2. Basic language including binary codes: ……………
+3. A period of ten years: …………..
+4. Having good organization; orderly and efficient: …………..  
+Vocabulary Skill
+The Prefix dis- 
+This common prefix in English means reversal or negation.
+•	disconnect: to break the connection between a supply of electricity and a device or piece of equipment.
+
+•	disappear: become invisible or unnoticeable; fade away gradually
+
+I. Look at the words below. Add the prefix dis- to each one. Then complete the following sentences with the new verbs.
+-	able:       		
+-	charge:       			         
+-	allow:      			             
+-	color:                			     
+-	information:     			   
+
+1-	To enable or ……………. Remote Assistance connections to Windows-7 Computer, please open the System Properties.
+
+2-	I have done nothing to my computer and all of a sudden one morning the display was ……………...
+
+3-	 Internet contains a lot of …………….….... that may seem very convincing.
+
+4-	To …………….... the Firewall, first open the Windows OneCare user interface.
+
+
+ 
+Review One
+J. Choose the best answer
+1.	When I finish using my computer, I always ….
+a)	close it down                     b) shut it off                      c) shut it down
+2.	When you …. a document, it is sent to the recycle bin.
+a)	erase                                    b) delete                             c) destroy
+3.	Software which is easy to use is ….
+a)	user-easy                             b) user-friendly               c) usable
+4.	Cut or …. text is temporarily stored in the clipboard.
+a)	copied                                  b) copy                                c) copies
+5.	Broadband Internet connection is much faster than … connection.
+a)	dial-in                                   b) dial-through                c) dial-up
+6.	Once you are online, you can … the Web.
+a)	arrive                                   b) reach                              c) access
+7.	Most people use …. messaging to chat with friends.
+a)	fast                                       b) instant                            c) rapid
+8.	……. Hotspots provide Wi-Fi Internet access in airports and train stations.
+a)	Wireless                              b) Wired                             c) Wire-free
+9.	High-……. television provides a resolution that is substantially higher than that of standard-definition television.
+a)	defined                                  b) definition                       c) defined
+10.	The main function of a power ............. is to change the electrical current from a source to the accurate voltage, frequency and current to supply the load.
+a) supply                  	                    b) line                                  c) plant
+
+Writing Hints
+Expressing contrast
+One way to express contrast in English is using but/ (al)though/while:
+-	but:
+Chinese smart phones are cheap, but they are really non-durable.
+-	Although:
+Although Chinese smart phones are cheap, they are really non-durable.
+-	While:
+While Chinese smart phones are cheap, they are really non-durable.
+
+•	although and though mean exactly the same and are used the same, but though is more informal and more common when talking, and although is more formal and more common when writing.
+•	though may be emphasized by putting "even" before: even though
+•	(al)though/while and but cannot go together.
+
+Cloze
+K. Complete the passage by filling in the blanks with the words in the box.
+implementing/ developed/ build/ provides/ founded
+C Language is the oldest and most common language which ……… the basis of other popular languages, such as C#, Java, JavaScript and Python. It is usually used for ………….. operating systems and embedded applications. Given that many other languages are …….…. on C language, it is best to learn C (and C++) before moving on to others. C++ was …….…..  to enhance the C language as an object-oriented programming language used to ………… software, video games & mobile apps. C++ is the language behind major software like Firefox, Winamp and Adobe programs.
+ 
+Vocabulary
+administration: the process or activity of running a business, organization, etc.; management
+commercial: concerned with or engaged in commerce
+convincing: causing one to believe the truth of something.
+decade: a period of 10 years
+directly: with nothing or no one in between
+discolor: change or cause to change to a different, less attractive color
+disinformation: misinformation that is deliberately disseminated in order to influence or confuse rivals (foreign enemies or business competitors etc.)
+efficient: achieving maximum productivity with minimum wasted effort or expense.
+extender cable: a length of electric cable which permits the use of appliances at some distance from a fixed socket. 
+fade: become less clearly visible or distinguishable; disappear gradually or seemingly
+implementation: the process of putting a decision or plan into effect; execution
+in brief: in a concise manner; in a few words
+informal: having a relaxed, friendly, or unofficial style, manner, or nature
+reusable: capable of being used again
+script: an automated series of instructions carried out in a specific order.
+suite: a set of programs with a uniform design and the ability to share data.
+syntax: the grammatical arrangement of words in sentences
+

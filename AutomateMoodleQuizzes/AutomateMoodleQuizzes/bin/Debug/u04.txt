@@ -1,0 +1,157 @@
+UNIT FOUR
+
+	
+Operating System
+
+
+ 
+
+
+Learning objectives: By the end of the lesson students will be better able to …… 
+
+
+- identify and describe a computer’s operating system;
+- use specific vocabulary, explanations and definitions about operating system;
+- get familiar with various practical expressions used in computing;
+- identify and use common linking expressions used for expressing addition.
+
+
+ 
+A) Types of Software
+1. Software is a computer program that tells computer hardware how to operate. Software is even more diverse than hardware—there are thousands and thousands of software programs out there. Software ranges from the Windows XP operating system that manages your computer, to the word processor you use to print letters, to the Web browser you use to surf the Internet. Software is often divided into two categories:
+ - Systems software controls the basic functions of a computer, e.g. operating system, programming software and utility programs. 
+ - Application software lets the user do the specific tasks such as writing letters, playing games and browsing the Internet. 
+
+B) Operating System
+2. An operating system is the most important software that runs on a computer. It manages the computer's memory, processes, and all of its software and hardware. It also allows you to communicate with the computer without knowing how to speak the computer's language. Without an operating system, a computer is useless.
+3. Your computer's operating system manages all of the software and hardware on the computer. Most of the time, there are many different computer programs running at the same time, and they all need to access your computer's CPU, memory, and storage. The operating system coordinates all of these to make sure each program gets what it needs. 
+ 
+C) Types of Operating System
+4. Operating systems usually come preloaded on any computer you buy. Most people use the operating system that comes with their computer, but it's possible to upgrade or even change operating systems. The three most common operating systems for personal computers are as follows:
+5. Microsoft created the Windows operating system in the mid-1980s. Over the years, there have been many different versions of Windows, but the most recent ones are Windows 10 (released in 2015), Windows 8 (2012), Windows 7 (2009), and Windows Vista (2007). Windows comes preloaded on most new PCs, which helps to make it the most popular operating system in the world.
+6. Mac OS is a line of operating systems created by Apple. It comes preloaded on all new Macintosh computers, or Macs. All of the recent versions are known as OS X (pronounced O-S Ten), and the specific versions include Yosemite (released in 2014), Mavericks (2013), Mountain Lion (2012), Lion (2011), and Snow Leopard (2009). Apple also offers a version called Mac OS X Server, which is designed to be run on servers.
+7. Linux is a family of open-source operating systems, which means they can be modified and distributed by anyone around the world. The advantages of Linux are that it is free, and there are many different distributions- or versions- you can choose from. Each distribution has a different look and feel, and the most popular ones include Ubuntu, Mint, and Fedora.
+
+
+Reading Comprehension
+A. Read the sentences; put T for True and F for False. Then work with your classmates to correct the false ones.
+
+1.	Operating system is a type of application software.
+2.	Linux is the most popular operating system.
+3.	Lion is the most recent version of Mac.
+4.	Operating system is responsible for managing a computer’s software and hardware.
+
+B. Complete the sentences with the words of the passage.
+1.	He spends a lot of time ………… the Internet.
+2.	The software designed to provide a platform for running applications is known as …….
+3.	Hackers gained complete …… to the company files.
+
+
+
+C. Match two halves of each sentence.
+
+1. All computer programs running at the same time,	a. Mac is preloaded on all Macintosh computers.
+2. As a product of Apple,	b. need to access the computer’s CPU.
+3. Having an age of about three decades,	c. Windows is known as the most popular Operating System.
+
+
+D. Complete the diagram with the correct words according to the passage.
+
+ 
+
+E. Complete the following sentences based on the passages.
+1.	To control the basic functions of a computer, ………………………………………
+2.	Operating System is known as the most important software, because…………………………... …………………………………………………..
+
+3.	Linux is known as an open-source operating system, because …………………………………………………………………………
+
+4.	Without an application software, …………………………………………………………
+Vocabulary Practice
+F. Complete each sentence with a word from the following. One word is extra.
+preload- tasks - browser- surf - version 
+1.	How do I …..…. a program for faster start?
+2.	 Which web ………. is the most popular choice among the Internet users?
+3.	Utility programs perform the ……... needed by most users.
+4.	A new …..……. of this software is planned for next year.
+
+G. Find a synonym for each of the following words from the related paragraphs.
+1. control (1)    			4. globe (5)   		
+2. unusable (2) 			5. special (6)  			
+3. purchase (4)   			6. merit (7)   			
+
+H. Complete the following definitions using the terms in the box. Two terms are extra.
+surf/ utility program/ upgrade/distribute/run/create
+1.  To look at various places one after another on the Internet: …….….
+2.  To improve the quality of a computer program: …………… 
+3. To divide things into groups according to their type:  ………….
+4. To spread something over an area: ………………...
+5. A program designed for general support of the processes of a computer: ……
+
+Vocabulary Skill
+The prefix de-
+This prefix means “the opposite of an action” or “to reverse an action”
+•	debug: to remove bugs (mistakes) from a computer program
+•	decode: to convert coded data back into its original form
+I. Look at the words below. Add the prefix de- to each one. Then complete the following sentences with the new words.
+-	activate:           			 
+-	normalize:        			
+-	classify:           			  
+-	fragment:       			   
+-	crypt:                			  
+
+1.	When you …………  your account, you are hiding all of your information.
+2.	They will ………..… the IT documents after 30 years.
+3.	You can ……………. your computer overnight.
+4.	How can I ……………. a database?
+5.	Such messages can be ……….… only by someone with the private key.
+ 
+Natural English
+adverb+ adjective
+Some common collocations are made of an adverb followed by an adjective. Some examples are as follows:
+- This anti-virus will be freely available by April.	
+     -  The most commonly used spreadsheet program is Microsoft Excel.
+
+
+J. Choose the best adverb.
+1. Such information is …… sensitive. Don’t send them via fax.
+a)	highly                   b) instantly               c) commonly
+2. In December 2011 Google Chrome overtook Internet Explorer 8 as the most ………... used web browser.
+a)	usually                b) freely                   c) widely
+3. When your computer runs a program, it needs some information to be ……….... available instead of being stored on the hard drive.
+a)	immediately      b) virtually              c) highly
+4. A website is simply a collection of interlinked documents, usually stored in the same directory on a ……..… accessible computer known as a server.
+a)	frequently         b) highly                    c) publicly
+5. Such Disc players are …………… backward compatible with CD/DVD formats.
+a)	fully                     b) freely                   c) widely
+Writing Hints
+Expressing Addition
+One way to express addition in English is using as well as/ besides/in addition:
+-	as well as: 
+Wood-based computer chips can perform just as well as chips commonly used for wireless communication.
+-	besides:
+Do you play any other online game besides Clash of Clans?
+-	in addition:
+This website tells us a lot about the latest products on the market. In addition, it refers us to some other useful websites.	
+
+Cloze
+K. Complete the passage by filling in the blanks with the words in the box.
+	applications/output/interfere/track/systems
+
+Every general-purpose computer must have an operating system to run other programs and ………... . Operating systems perform basic tasks, such as recognizing input from the keyboard, sending …..….… to the display screen, keeping ……….. of files and directories on the disk, and controlling peripheral devices such as disk drives and printers. For large …….…, the operating system has even greater responsibilities and powers. It is like a traffic cop - it makes sure that different programs and users running at the same time do not ………… with each other. 
+ 
+Vocabulary
+category: a class or division of people or things regarded as having particular shared characteristics.
+communicate: share or exchange information, news, or ideas.
+diverse: showing a great deal of variety; very different.
+fragment: a small part broken or separated off something
+globe: the earth
+hacker: a person who uses computers to gain unauthorized access to data.
+interlink: join or connect (two or more things) together
+merit: the quality of being particularly good or worthy, esp. so as to deserve praise or reward
+open-source: denoting software for which the original source code is made freely available and may be redistributed and modified.
+overtake: become greater or more successful than
+popular: liked, admired, or enjoyed by many people or by a particular person or group.
+preload: load beforehand.
+surf: move from site to site on (the Internet).
+traffic cop: a policeman who controls the flow of automobile traffic.
+version: a particular form of something differing in certain respects from an earlier form or other forms of the same type of thing, a particular release of a piece of computer software.

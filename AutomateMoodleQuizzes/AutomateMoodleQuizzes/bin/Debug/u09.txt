@@ -1,0 +1,152 @@
+UNIT NINE 
+
+	
+Artificial Intelligence
+
+
+ 
+
+
+Learning objectives: By the end of the lesson, students will be better able to … 
+
+- identify and describe the term of artificial intelligence;
+- use specific vocabulary about artificial intelligence;
+- get familiar with various practical combinations used in computing;
+- identify and be familiar with common punctuation and symbols in computing.
+
+A)	The Birth of Artificial Intelligence
+1. Probably many people have heard of Artificial Intelligence (AI), but relatively few people have a really good idea of what the term really means. Simply put, artificial intelligence is a branch of computer science. Its goal is to enable the development of computers that are able to do things normally done by people - in particular, things associated with people acting intelligently.
+
+2. The birth of this field, as the study of man-made computational devices and systems which can be made to act in a manner which we would be inclined to call intelligent, can be traced back to the early 1950s. Arguably, the first significant event in the history of AI was the publication of a paper entitled "Computing Machinery and Intelligence" by the British Mathematician Alan Turing. In this paper, Turing argued that if a machine could pass a certain test (which has become known as the 'Turing test') then we would have grounds to say that the computer was intelligent. 
+
+3. The Turing test involves a human being, known as the 'judge', asking questions via a computer terminal to two others, one of which is a human being and the other is a computer. If the judge regularly failed to correctly distinguish the computer from the human, then the computer was said to have passed the test. 
+
+
+B)	AI Specialization
+4. Artificial intelligence includes the following areas of specialization:
+a)  Games playing: programming computers to play games against humans. The greatest advances in AI have occurred in the field of games playing.
+b) Expert systems: programming computers to make decisions in real-life situations. For example, some expert systems help doctors diagnose diseases based on symptoms.
+c) Natural language: programming computers to understand natural human languages. For example, English, French and Persian are natural languages. However, programming computers to understand natural languages has proved to be more difficult than originally thought.
+d) Neural networks: systems that simulate intelligence by attempting to reproduce the types of physical connections that occur in animal brains. Neural networks are currently used mostly in voice recognition systems, image recognition systems, industrial robotics, medical imaging, data mining and aerospace applications.
+e) Robotics: programming computers to see and hear and react to other sensory stimuli. Although great advances have been made in the field of robotics during the last decade and robots are now widely used in industry, medicine and also in special situations that would be dangerous for humans - for example, in cleaning toxic wastes - they are still not very useful in everyday life, as they are too clumsy to perform ordinary household jobs. 
+
+Reading Comprehension
+A. Read the sentences; put T for True and F for False. Then work with your classmates to correct the false ones.
+
+1.	Judge is the other name of Turing test.
+2.	Today robots are commonly used in everyday activities.
+3.	Understanding natural languages is easy for computers.
+4.	The most significant achievements in AI have taken place in games playing.
+
+B. Complete the sentences with the words of the passage.
+1.	Artificial intelligence is a ...... and technology based on various disciplines.
+2.	Researchers have been laboring for over 30 years to create ........ computers.
+3.	She has an MS in both artificial intelligence and .........
+
+
+C. Match two halves of each sentence.
+
+1. Many people have heard of AI,	a. if it passes the test.
+2. It is said that the computer is intelligent,	b. robots have not been used in everyday life.
+3. Due to their clumsiness,	c. but a few people know its essence.
+
+ 
+
+D. Complete the diagram with the correct words according to the passage.
+
+ 
+
+E. Complete the following sentences based on the passages.
+
+1.	The goal of AI is introduced as ……………………………………. .
+2.	The publication of Turing test paper in 1950s is known as …………………………………………………................... .
+
+3.	Although different types of robots are currently used in industry, ……………………………………………………………… .  
+
+4.	When the judge fails to distinguish the computer from the human, …………………………………………........................ .
+
+Vocabulary Practice
+F. Complete each sentence with a word from the following. One word is extra.
+neural- clumsy- advances- arguably -digital
+1.	The first mobile phones were heavy and ………...... to use, but nowadays they are much easier to handle.
+2.	 Recent ……......... in computer science are promising.
+3.	This is ................. the best brand in computer market.
+4.	A .............. image is a numeric representation of a two-dimensional image.
+
+
+G. Find a synonym for each of the following words from the related paragraphs.
+1. opinion (1)         			4. sign (4)           			       
+2. happening (2)      		5. extensively (4)  			   
+3. differentiate (3)      		6. initially (4)        			    
+
+H. Complete the following definitions using the terms in the box. Two terms are extra.
+stimulus- perform- diagnose- associate- ground- incline
+1.  To recognize and name the exact character of a disease: ……….….
+2.  Something that causes part of the body to react: ………….. 
+3.  To tend to behave in a particular way or to have a particular attitude: ………. 
+4. To form a connection in your mind between different people or things: ……....
+Vocabulary Skill
+Abbreviation
+	Abbreviations are formed from the first letters in a phrase or name. 
+•	ISP: The Internet Service Provider
+•	PC:  Personal Computer
+•	HTML:  Hyper Text Markup Language
+•	BCC: Blind Carbon Copy
+
+I. Write the complete form of the following abbreviations.
+-	FTP:     			   
+-	IIS:   			      
+-	PPP:    			    
+-	USB:     			   
+-	PIN:    			    
+-	VRML:			   
+-	PDF:   			  
+-	HTTP: 			 
+-	VR:    			    
+-	VGA: 			  
+Natural English
+verb+ particle
+It is another type of compound noun. Some examples are as follows:
+-	plug-in: An accessory software program that extends the capabilities of an existing application.
+-	set-up: The way in which a program is configured.
+-	add-on: A computer program or a piece of computer equipment that you can add to a computer in order to increase the number of things it is able to do.
+
+J. Match the following compound nouns with their definitions.
+pop-up / back-up / set-up / dial-up 
+1)	A new window that opens quickly on a computer screen in front of where you are working on: …………….
+2)	A copy of information held on a computer that is stored separately from the computer: …………..
+3)	Involving or used for remote access via a telephone line: ………………..
+4)	The set of letters and numbers that you write on a computer screen in order to connect to a computer system: …………..
+  
+
+Writing Hints
+Punctuation and Symbols (1)
+	   1.  single quotes	        '  '     
+2.  double quotes                                                           " "	
+3.  ampersand	&
+4.   asterisk                                                                        *
+5.   hash                                                                              #
+6.   colon                                                                             :
+7.   semicolon                                                                    ;
+            8.  arrow	            →
+
+Cloze
+K. Complete the passage by filling in the blanks with the words in the box.
+human/ variables/structured/traditionally/component
+
+Natural language processing (NLP) is the ability of a computer program to understand ……… speech as it is spoken. NLP is a ……… of artificial intelligence. The development of NLP applications is challenging because computers ……………. require humans to “speak” to them in a programming language that is precise, unambiguous and highly … or, perhaps through a limited number of clear voice commands. Human speech, however, is not always precise - it is often ambiguous and the linguistic structure can depend on many complex ……..…, including slang and regional dialects.
+ 
+Vocabulary
+abbreviation: a shortened form of a word or phrase 
+accessory: a supplementary component that improves capability
+attitude: the way of thinking and feeling about something
+clumsy: difficult to handle or manage especially because of shape
+diagnose: identify the nature of (an illness or other problem) by examination of the symptoms
+dialect: the usage or vocabulary that is characteristic of a specific group of people 
+ground: knowledge on which to base belief
+man-made: made or caused by human beings (as opposed to occurring or being made naturally); artificial
+simulate: create a representation or model of
+slang: a type of language that consists of words and phrases that are regarded as very informal, are more common in speech than writing
+stimuli: a thing or event that evokes a specific functional reaction in an organ or tissue
+symptom: a physical or mental feature which is regarded as indicating a condition of disease, particularly such a feature that is apparent to the patient.
+unambiguous: not open to more than one interpretation

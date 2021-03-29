@@ -1,0 +1,158 @@
+UNIT EIGHT
+
+	
+Networking
+
+ 
+
+Learning objectives: By the end of the lesson students, will be better able to …
+
+
+- identify and describe the term of networking;
+- use specific vocabulary, explanations and definitions about network;
+- get familiar with various practical combinations used in computing;
+- identify and use parallel structures.
+
+A)	Networking Types
+1. In the simplest explanation, networking is just computers talking to each other. Networking allows two or more computer systems to exchange information and share resources and peripherals. In this process, computers must also know how to find other computers on the network. To put it briefly, every computer on the network needs a unique address so messages know where to go after they are sent. Two common types of networks are LANs and WANs.
+
+2. Local Area Network (LAN) is a computer network that interconnects computers within a limited area such as a school, laboratory, or office building. LANs can be built with two main types of architectures:
+a) peer-to-peer, where the two computers have the same capabilities;
+b) client-server, where a computer acts as the server which contains the database and controls the other workstations or nodes and all the devices linked in the network. 
+
+3. Computers in a LAN need to use the same protocol, or standard of communication. Ethernet is one of the most common protocols for LANs. A router, a device that forwards data packets, is needed to link a LAN to another network. Most networks are linked with cables or wires but new Wi-Fi technologies allow the creation of WLANs, where cables or wires are replaced by radio waves.
+
+4. Wide Area Network (WAN) is a telecommunication network or computer network that extends over a large geographical distance. It may connect computers or LANs on opposite sides of the world. Such computers are usually linked through telephone lines, fiber-optic cables or satellites. The main transmission paths within a WAN are high-speed lines called backbones. 
+B)	Network Topology
+5. Network topology refers to the shape of a network and how different nodes in a network are connected to each other and how they communicate. Three common basic physical ones include:
+- Star: All nodes are directly connected to a common central computer. Every workstation is indirectly connected to every other through the central computer. In some star networks, the central computer can also operate as a workstation.
+- Ring: All of the computers are connected to one another in a circle. The data passes from one computer to the next one and then all the way around the ring shape until it reaches the destination computer.
+- Bus: All nodes are directly connected to a main cable or link called a bus.
+
+6. There are also mixed topologies.  With a mixed network topology, all systems are connected in a non-standard way so that the connection pattern can be classed as a 'mix' between two topology types. For instance, a star-ring topology pattern is an example of a mixed topology network. The network connections combine features of both the star topology pattern and the ring topology pattern.
+
+Reading Comprehension
+A. Read the sentences; put T for True and F for False. Then work with your classmates to correct the false ones.
+
+1.	In LAN two computers have the same capabilities.
+2.	To link a LAN to another network, a router is needed.
+3.	Routers are the main transmission paths within a LAN.
+4.	Bus is a mix between Star and Ring.
+
+B. Complete the sentences with the words of the passage.
+1.	I can send it to you by email if you give me your ........................
+2.	The new equipment will link all cell-phones by ...................... to the center.
+3.	Your sent email has been ............... to the head office.
+
+
+C. Match two halves of each sentence.
+1. When a network interconnects computer within a limited area,	a. it is called a Local Area Network.
+2. Without a router,	b. setting up a LAN is impossible.
+3. Without the same protocol,	c. a LAN cannot connect to another network.
+
+
+
+
+D. Complete the diagram with the correct words according to the passage.
+
+ 
+
+
+E. Complete the following sentences based on the passages.
+
+1.	When all nodes are directly connected to a common central computer, .....................................…………………………………........................................ .
+2.	Backbones, as high-speed lines, are .……………………………………………..……. .
+
+3.	Although most networks are linked with cables, .......................................... ………………………………………………………………………… .
+
+4.	In a mixed network, ………………………………................................................. .
+
+
+Vocabulary Practice
+F. Complete each sentence with a word from the following. One word is extra.
+exchange – waves – interconnects – network - node
+1.	This report describes the key aspects of automatic .......... of information.
+2.	Every .................... has a unique network address.
+3.	The Internet ........................... a set of networks.
+4.	The large group of .................. is broken down into smaller groups based on their frequencies.
+
+G. Find a synonym for each of the following words from the related paragraphs.
+1. specific (1)    			4. link (v.) (4) 			 
+2. capacity (2)    			5. usual (5) 			
+3. substitute (3)   			6. quality (6) 			
+H. Complete the following definitions using the terms in the box. Two terms are extra.
+protocol/ workstation/destination/connection/data packet / fiber-optic
+1.  A basic unit of communication over a digital network: …………..
+2.  The place where something is being sent: ………..….. 
+3. A set of rules that controls the ways in which data is sent between computers: …………... 
+4. Consisting of or using long fibers of glass or plastic that carry information from one place to another as light signals: ………...
+Vocabulary Skill
+The Prefix anti- 
+This common prefix in English means against or in opposition:
+•	anti-virus: produced and used to protect the main memory of a computer against infection by a virus.
+
+•	anti-theft: used to describe equipment that is invented to prevent something from stealing.
+
+I. 	Look at the words below. Add the prefix anti- to each one. Then complete the following sentences with the new words.
+-	crack:     			            
+-	bug:                			    
+-	spam:         			         
+-	worm:           			       
+-	spyware:          			   
+
+1.	You can block spam emails effectively with Norton …………... .
+2.	 ….… is a piece of software designed to protect against computer worms.
+3.	……..….. contains proven technology to mitigate the risk of your apps getting pirated by automatic cracking tools.
+4.	………….… programs can combat spyware in two ways.
+
+Natural English
+
+verb or verbal noun + noun
+It is a common type of compound noun. Some examples are as follows:
+
+-	escape key: a key used to cancel or abort the operations.
+-	moving picture: a movie
+-	recording head: a mechanism that transfers data to a disk
+
+F. Match the two parts.
+   1. operating	a) bar
+   2. shopping 	b) system
+   3. talking 	c) center
+   4. docking 	d) basket
+   5. processing                                        e) tool
+   6. scroll                                                  f) press
+   7. scanning                                           g) station
+   8. printing                                             h) software
+
+
+Writing Hints
+Parallel structure
+In a sentence with a conjunction such as and, or, but, the words or phrases before and after the conjunction must have the same part of speech. This creates parallel structure in the sentence.
+ The virus destroyed the system and deleted all files. 
+  Mobile phones can be cheap or expensive.
+  Many kids like playing online games and downloading them for free.
+ The typist works carefully but slowly. 
+ Please change or correct the name of the folder.
+
+
+Cloze
+J. Complete the passage by filling in the blanks with the words in the box.
+full/occurs/node/connected/organized
+
+In a mesh network, devices are ……..…. with many redundant interconnections between network nodes. In a true mesh topology every ………. has a connection to every other node in the network. There are two types of mesh topologies: (a) Full mesh topology …………. when every node has a circuit, connecting it to every other node in the network. (b) Partial mesh topology in which some nodes are ……... in a ……... mesh scheme but others are only connected to one or two in the network. 
+ 
+Vocabulary
+aspect: a particular part or feature of something
+backbone: a high-speed, high-capacity digital connection which forms the axis of a local or wide area network.
+destination: the place to which someone or something is going or being sent
+docking station: a device to which a portable computer is connected so that it can be used like a desktop computer, with an external power supply, monitor, data transfer capability, etc.
+Ethernet: a system for connecting a number of computer systems to form a local area network, with protocols to control the passing of information and to avoid simultaneous transmission by two or more systems.
+exchange: the act of changing one thing for another thing
+fiber optics: the use of thin flexible fibers of glass or other transparent solids to transmit light signals, chiefly for telecommunications or for internal examination of the body.
+infection: the presence of a virus in a computer system.
+mitigate: make less severe, serious, or painful
+protocol: a set of rules governing the exchange or transmission of data between devices.
+redundant: more than is needed, desired, or required.
+unique: being the only one of its kind; unlike anything else
+workstation: a desktop computer terminal, typically networked and more powerful than a personal computer.
+

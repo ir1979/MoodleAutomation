@@ -1,0 +1,143 @@
+UNIT TEN
+
+
+	Internet Security
+
+ 
+
+Learning objectives: By the end of the lesson students will be better able to …… 
+
+
+- identify and describe the concept of Internet security;
+- use specific vocabulary, explanations and definitions about Internet security;
+- get familiar with various practical combinations used in computing;
+- identify and be familiar with common punctuation and symbols in computing.
+
+A)	Introduction
+1. The Internet provides a wealth of information and services. Many activities in our daily lives now rely on the Internet, including various forms of communication, shopping, financial services, entertainment and many others. With over 300,000 new web threats created every day, the use of the Internet, presents certain risks. For the most part, the Internet is indeed private and secure, but there are a number of serious security risks. This passage will review some of those security risks and provide some practical suggestions on how to address them.
+B)	Types of Security Risks
+2.  Viruses: One of the most serious threats consists of viruses and other harmful programs. A computer virus is a computer program that causes damage to a computer's software, hardware or data. Once a virus is present on a computer, it typically performs some type of harmful action, such as corrupting data or obtaining sensitive information. The best way to deal with the threat of a computer virus is to use antivirus software. Antivirus software helps to protect a computer system from viruses and other harmful programs. 
+3. Spyware: It is a program installed on your computer that sends information about you and how you use your computer to a third party, typically without you being aware this is happening. Spyware often enters your system when you install some type of free software from an untrusted source. Installation of the program you were interested in also installs the spyware. Once the spyware program is installed, it starts collecting information. Once the spyware has collected its information, it sends this to whoever created the program. Again, this happens without you noticing it. Removing the spyware can be difficult - often the program installs itself again as quickly as you can delete it. To counter spyware, you need to use a dedicated spyware management tool. 
+4. Phishing scams: Phishing is an email scam that is disguised as an official communication from a legitimate website. The message tricks people into providing sensitive information, such as their login details. A typical scam consists of a message that describes some issue with your account and requires you to login to your account to confirm something. The message looks very official, using logos and formal language. Don't follow the link. If you are seriously concerned, go to the institution's official website and log in to your account the way you normally would. Never log in to your account from a link sent to you in an email. 
+5. Spam: Spam consists of electronic junk mail. These are unwanted ones sent out to hundreds of thousands of Internet users, typically to buy something, to make a phony investment or to sign up for some type of online service. Spammers collect email addresses using automated spiders that crawl across web pages. Spiders also look through newsgroups and discussion forums. Spamming has become part of the Internet, just as junk mail has become part of the postal system. Antispam software has been developed to filter out the spam before it gets to your inbox. Antispam software uses a number of different strategies. Most email systems redirect spam into a special spam or junk mail folder. When you have a junk mail folder, you may want to check that everything in the folder is indeed spam. If you come across a particular email that should not have ended up in the spam folder, you can flag that particular email so that future messages from that sender are not considered spam. 
+
+Reading Comprehension
+A. Read the sentences; put T for True and F for False. Then work with your classmates to correct the false ones.
+
+1.	Virus is a kind of harmful program.
+2.	Software installation from unsecure sources is the main reason of spreading spyware.
+3.	Spiders collect email addresses automatically.
+4.	Following any link sent to your email is recommended.
+B. Complete the sentences with the words of the passage.
+1.	 This software has posed on serious ...... to our computers.
+2.	Your records have been ....... from our database.
+3.	Her last ...... was Mon. 16 March, 2015.
+4.	Click on this ....... to visit our online bookstore.
+
+
+C. Match two halves of each sentence.
+
+1. If you may encounter spyware,	a. spammers collect email addresses.
+
+2. Using spiders crawling across web pages,	b. using spyware management tool is recommended.
+3. Because the spyware installs itself again as quickly as you can delete it,	c. removing it is not easy at all
+D. Complete the diagram with the correct words according to the passage.
+
+ 
+
+
+
+E. Complete the following sentences based on the passages.
+
+1.	Although the Internet is private and secure, …………………………………….....
+2.	Once a spyware program is installed, …………………………………………………..
+
+3. When you want to log in to your account, …………………………………………....
+
+4. To filter out the spam before it gets the inbox, ............................................. 
+
+
+Vocabulary Practice
+F. Complete each sentence with a word from the following. One word is extra.
+web- spam- phony- account -crawl
+1.	I get so much ............. at work.
+2.	She is a skilled ............. designer.
+3.	How do I create an email ……..........?
+4.	How to verify if an email address is real or ................?
+
+G. Find a synonym for each of the following words from the related paragraphs.
+	1. danger (n.) (1)			4. necessitate (4)			2. harm (n.) (2)			5. gather (5)			3. unsafe (3)			6. encounter (5)			
+
+H. Complete the following definitions using the terms in the box. Two terms are extra.
+junk/ inbox/ confirm/ folder/ logo/ dedicated
+1.  A place on a computer where files or programs can be stored: …….
+2.  To prove that something is true: …….. 
+3. The place on a computer program where emails arrive for you: …….. 
+4. Designed to be used for one particular purpose: ….
+Vocabulary Skill
+The suffix –ware
+It is used to refer to products of the same type. For example, software refers to programs executed by a computer, as opposed to the physical devices on which they run, namely the hardware. 
+This suffix is especially used to form terms for classes of software.
+
+
+I. Look at the words below. Add the suffix -ware to each one to make a noun. Then complete the following sentences with the new words.
+
+-	spy:        			
+-	ad:         			  
+-	group:  			  
+-	mal:       			  
+-	free:      			   
+-	share:   			  
+
+1. Viruses and Trojan horses are types of ………….
+2. Norton provides anti-….…. protection and protects from other security risks.
+3. Any software which serves banner ads to you while in use is called………..
+4. Spyware applications are typically bundled as a hidden component of ……. or shareware programs that can be downloaded from the Internet.
+
+Natural English
+compound adjectives
+Compound adjectives are made up of two words, normally with hyphens between them. They can be classified as following:
+-	Noun + past participle: voice-activated / menu-driven  
+-	 Noun + present participle:  space-saving / record-breaking
+-	Noun + adjective: stand-alone / hands-free
+
+J. Complete the sentences with the above compound adjectives.
+1.	The phone has ………..……… dialing.
+2.   Currently …………… mobile phones are obligatory in many countries for use of a mobile phone while driving.
+3. IBM and NVIDIA just announced they were building two ………. supercomputers.
+4.  What are the advantages and disadvantages of ……………... programs?
+5. It is a powerful computer with ample hard drive storage in a ………. package; small in size, big in potential.
+
+ 
+Writing Hints
+Punctuation and Symbols (2)
+	   1.  brackets	  (  )      
+2.   underscore                                                             _
+3.  hyphen	 -	
+4.  “at” sign                                                                  @    
+5.   forward slash                                                        /                    
+6.   backward slash (backslash)			      \                       
+7.   equals sign                                                             =        
+            8.  square brackets	       [ ]  
+9.  plus sign	+
+10. backtick                                                                 `
+Cloze
+K. Complete the passage by filling in the blanks with the words in the box.
+download/installing/websites/ stealing/false
+
+Phishing email messages, ……, and phone calls are designed to steal money. Cybercriminals can do this by ………. malicious software on your computer or …..… personal information off of your computer. Cybercriminals also use social engineering to convince you to install malicious software or hand over your personal information under ……. pretenses. They might email you, call you on the phone, or convince you to …..… something off of a website.
+ 
+Vocabulary
+ample: enough or more than enough
+convince: make (someone) agree, understand, or realize the truth or validity of something
+corrupt: cause errors to appear in (a computer program or database)
+dedicated: devoted to a task or purpose
+disguise: having its true character concealed with the intent of misleading
+junk: worthless material
+legitimate: able to be defended with logic or justification
+phony: not genuine
+scam: a dishonest scheme 
+spider: a computer program that prowls the Internet looking for publicly accessible resources that can be added to a database; the database can then be searched with a search engine.
+third party: someone other than the principals who are involved in a transaction
+threat: something that is a source of danger
+verify: confirm the truth of
